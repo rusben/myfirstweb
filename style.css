@@ -1,0 +1,51 @@
+* {
+
+}
+
+#main-banner > *  {
+  margin: 0;
+  padding: 0;
+}
+
+#main-banner {
+  border: thin solid red;
+  background-color: rgb(43, 110, 135);
+  background-image: url("images/rowan_atkinson_como_mr_bean.webp");
+  background-size: cover;
+}
+
+#main-banner > h1 {
+  padding: 1em;
+  padding-bottom: 0;
+  color: white;
+}
+
+#main-banner > p {
+  color: lightgrey;
+  padding: 1em;
+  padding-left: 2em;
+}
+
+#main-banner > span > a {
+  float: right;
+}
+
+
+
+/*
+.pred {
+  background-color: red;
+  color: rgb(145, 52, 104);
+  color: #1b9592;
+
+}
+
+.colorazul {
+  font-size: 2em;
+  color: yellow;
+  border: thin solid blue;
+  padding: 1em;
+  margin: 2em;
+  border-radius: 2em;
+}
+*/
